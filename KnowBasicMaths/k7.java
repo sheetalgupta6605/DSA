@@ -26,7 +26,7 @@ public class k7 {
         System.out.print("Enter the Number: ");
         int num = sc.nextInt();
         boolean output = prime(num);
-        System.out.println(output);
+        System.out.println("Is Number Prime: " + output);
         sc.close();
     }
 
