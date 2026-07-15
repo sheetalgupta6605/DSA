@@ -17,5 +17,6 @@ public class printNto1Backtrack {
         System.out.print("Enter n: ");
         int n = sc.nextInt();
         reversePrintPsingBacktrack(1, n);
+        sc.close();
     }
 }
