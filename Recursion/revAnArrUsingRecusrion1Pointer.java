@@ -21,7 +21,7 @@ public class revAnArrUsingRecusrion1Pointer {
         Scanner sc = new Scanner(System.in);
 
         System.out.println(
-                "Given an array arr of n elements. The task is to reverse the given array. The reversal of array should be inplace.");
+                "Given an array arr of n elements. The task is to reverse the given array. The reversal of array should be inplace(Using single Pointer).");
 
         System.out.print("Enter size: ");
         int n = sc.nextInt();
