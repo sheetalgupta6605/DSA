@@ -21,7 +21,7 @@ public class revArrayWith2Pointer {
         Scanner sc = new Scanner(System.in);
 
         System.out.println(
-                "Given an array arr of n elements. The task is to reverse the given array. The reversal of array should be inplace.");
+                "Given an array arr of n elements. The task is to reverse the given array. The reversal of array should be inplace (using two pointer).");
 
         System.out.print("Enter size: ");
         int n = sc.nextInt();
