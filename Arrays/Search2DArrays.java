@@ -42,9 +42,9 @@ public class Search2DArrays {
         boolean isFound = search(numArr, num);
 
         if (isFound) {
-            System.out.println("True");
+            System.out.println("Your number is found");
         } else {
-            System.out.println("False");
+            System.out.println("Your number isn't found");
         }
 
         sc.close();
